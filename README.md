@@ -13,6 +13,6 @@ Merubah Ownership / kepemilikan dari suatu file atau folder / direktory :
 8. Di gambar "8", merupakan cara merubah ownership dari suatu file, ada beberapa cara tapi yang saya contohkan adalah memasukkan ke dalam user dan group yang sudah kita buat tadi. Dengan mengetikkan " chown nama_user.nama_group nama_file". Kemudian chek dengan perintah " ls -li ".
 9. Di gambar "9", merupakan cara merubah ownership dari suatu folder / direktory, ada beberapa cara tapi yang saya contohkan adalah memasukkan ke dalam user dan group yang sudah kita buat tadi. Dengan mengetikkan " chown nama_user.nama_group nama_folder". Kemudian chek dengan perintah " ls -li ".
 
-NOTE : ada beberapa perintah yang awalnya harus memakai " sudo ", digunakan untuk mendapak akses dari super user.
+NOTE : ada beberapa perintah yang awalnya harus memakai " sudo ", digunakan untuk mendapat akses dari super user.
 
 LP3I BC SEMARANG
